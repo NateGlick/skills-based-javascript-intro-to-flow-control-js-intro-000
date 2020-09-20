@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-
+return()
 }
 
 function teenager(age) {

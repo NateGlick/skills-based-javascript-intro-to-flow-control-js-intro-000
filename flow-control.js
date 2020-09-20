@@ -1,5 +1,7 @@
 function basicTeenager(age) {
-  if(basicTeenager)
+  if(basicTeenager){
+  }
+  }
 }
 
 function teenager(age) {

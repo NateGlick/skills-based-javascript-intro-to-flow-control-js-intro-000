@@ -15,7 +15,7 @@ function ageChecker(age) {
 
 
 function ternaryTeenager(age) {
-return
+return 
 
 function switchAge(age) {
 
